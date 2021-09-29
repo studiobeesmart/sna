@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Datta Able - Most Complete Bootstrap Admin Template</title>
+    <title> VAMoS | Virtual Administrative Management of School </title>
     <!-- HTML5 Shim and Respond.js IE11 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 11]>
@@ -47,10 +47,10 @@
                     <div class="b-bg">
                         <i class="feather icon-trending-up"></i>
                     </div>
-                    <span class="b-title">Datta Able @auth
-                        {{ "anu" }}
+                    <span class="b-title">VAMoS @auth
+                        {{ "SNA" }}
                         @else
-                        {{ "inu" }}
+                        {{ "OFF" }}
                         @endauth</span>
                 </a>
                 <a class="mobile-menu" id="mobile-collapse" href="#!"><span></span></a>

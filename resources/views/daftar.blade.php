@@ -221,7 +221,7 @@ License: You must have a valid license purchased only from themeforest(the above
                     <div class="invalid-feedback" style="margin-top: 0px; color:red;"">
                         {{ $message }}
                     </div>
-                @enderror
+                    @enderror
                 </div>
                 <div class="form-group">
                     <label class="control-label visible-ie8 visible-ie9">Re-type Your Password</label>
